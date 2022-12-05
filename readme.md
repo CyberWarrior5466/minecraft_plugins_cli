@@ -1,6 +1,4 @@
-**A python program that downloads minecraft plugins from urls or modrinth slugs.**
-
-Usage:
+**Usage:**
 
 1. Install dependencies
    
