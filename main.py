@@ -1,5 +1,5 @@
 """ Get the newest release that supports specified minecraft version
-if no version is specified we get the latest release
+if no version is specified we get the latest release.
 """
 
 from urllib.parse import urlparse, unquote
@@ -61,3 +61,4 @@ if __name__ == "__main__":
 # - [X] modrinth support https://docs.modrinth.com/api-spec/
 # - [ ] curse forge support https://docs.curseforge.com/
 # - [ ] spigot support https://spiget.org/
+# - [ ] add authors, donation links
