@@ -1,0 +1,19 @@
+{
+    "version": "1.19.2",
+
+    // List of modrinth slugs or urls
+    "mods": [
+        "lithium",
+        "starlight",
+        "ferrite-core",
+        "krypton",
+        "lazydfu",
+        "servercore",
+        "carpet-fixes",
+        "chunky",
+        "sleep-warp",
+        "view-distance-fix",
+        "https://mediafilez.forgecdn.net/files/4033/215/fabric-carpet-1.19.2-1.4.84%2Bv221018.jar",
+        "https://mediafilez.forgecdn.net/files/4066/596/carpet-extra-1.19.2-1.4.84.jar"
+    ]
+}
