@@ -58,5 +58,6 @@ if __name__ == "__main__":
 
 
 # TODO:
-# - add curse forge support https://docs.curseforge.com/
-# - add spigot support https://spiget.org/
+# - [X] modrinth support https://docs.modrinth.com/api-spec/
+# - [ ] curse forge support https://docs.curseforge.com/
+# - [ ] spigot support https://spiget.org/
