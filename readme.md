@@ -8,6 +8,4 @@ Usage:
 
 2. To add mods, edit the `mods.jsonc` file
    
-3. Run with
- 
-    `python3 main.py`
+3. Run with `python3 main.py`
