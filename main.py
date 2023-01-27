@@ -59,6 +59,6 @@ if __name__ == "__main__":
 
 # TODO:
 # - [X] modrinth support https://docs.modrinth.com/api-spec/
-# - [ ] curse forge support https://docs.curseforge.com/
-# - [ ] spigot support https://spiget.org/
+# - [ ] spigot support https://spiget.org
+# - [ ] GitHub releases support
 # - [ ] add authors, donation links
